@@ -1,4 +1,4 @@
-// const json2csv = require('json2csv');
+// const json2csv = require('zll-json2csv');
 const json2csv = require('../index');
 
 // Create a JSON array

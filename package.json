@@ -1,6 +1,6 @@
 {
-  "name": "json2csv",
-  "version": "1.0.0",
+  "name": "zll-json2csv",
+  "version": "1.0.2",
   "description": "Convert your js/json object/string into csv string",
   "main": "index.js",
   "scripts": {
