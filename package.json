@@ -1,0 +1,25 @@
+{
+  "name": "json2csv",
+  "version": "1.0.0",
+  "description": "Convert your js/json object/string into csv string",
+  "main": "index.js",
+  "scripts": {
+    "fetch npm": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhengLinLei/json2csv.git"
+  },
+  "keywords": [
+    "json",
+    "csv",
+    "js",
+    "api"
+  ],
+  "author": "ZhengLinLei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZhengLinLei/json2csv/issues"
+  },
+  "homepage": "https://github.com/ZhengLinLei/json2csv#readme"
+}
